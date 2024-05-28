@@ -1,4 +1,4 @@
-# Azure-Administrator-Labs-
+# Azure-Administrator-Labs-Manage Mircosoft Entra ID Identities
 Hands on Azure Administrator Labs 
 ---
 lab:
